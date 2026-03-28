@@ -1,0 +1,12 @@
+cantidad = int(input("¿Cuántos contactos desea registrar?: "))
+for i in range(cantidad):
+    print(f"\nContacto {i+1}:")
+    nombre = input("Ingrese el nombre: ")
+    telefono = input("Ingrese el teléfono: ")
+    correo = input("Ingrese el correo: ")
+    direccion = input("Ingrese la dirección: ")
+    print("Contacto registrado:")
+    print("Nombre:", nombre)
+    print("Teléfono:", telefono)
+    print("Correo:", correo)
+    print("Dirección:", direccion)

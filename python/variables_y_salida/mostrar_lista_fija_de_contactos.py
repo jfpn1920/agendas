@@ -1,0 +1,10 @@
+nombre1 = "Ana"
+telefono1 = "3001111111"
+nombre2 = "Luis"
+telefono2 = "3012222222"
+nombre3 = "Carlos"
+telefono3 = "3023333333"
+print("Lista de contactos:")
+print(nombre1, "-", telefono1)
+print(nombre2, "-", telefono2)
+print(nombre3, "-", telefono3)
