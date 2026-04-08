@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\bin\Debug\net10.0\separar_logica_y_menu_en_consola.exe
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\bin\Debug\net10.0\separar_logica_y_menu_en_consola.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\bin\Debug\net10.0\separar_logica_y_menu_en_consola.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\bin\Debug\net10.0\separar_logica_y_menu_en_consola.dll
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\bin\Debug\net10.0\separar_logica_y_menu_en_consola.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\separar_logica_y_menu_en_consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\separar_logica_y_menu_en_consola.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\separar_logica_y_menu_en_consola.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\separar_logica_y_menu_en_consola.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\separar_logica_y_menu_en_consola.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\separar_logica_y_menu_en_consola.dll
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\refint\separar_logica_y_menu_en_consola.dll
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\separar_logica_y_menu_en_consola.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\separar_logica_y_menu_en_consola.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\separar_logica_y_menu_en_consola\obj\Debug\net10.0\ref\separar_logica_y_menu_en_consola.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\arreglos_y_listas\\limpiar_agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7B76D-2A1A-424F-BCE3-B1D9D80E54DA}|limpiar_agenda.vbproj|c:\\users\\lenovo\\onedrive\\documentos\\agendas\\visual_basic\\arreglos_y_listas\\limpiar_agenda\\limpiar_agenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3FB7B76D-2A1A-424F-BCE3-B1D9D80E54DA}|limpiar_agenda.vbproj|solutionrelative:limpiar_agenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "limpiar_agenda.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\arreglos_y_listas\\limpiar_agenda\\limpiar_agenda.vb",
+              "RelativeDocumentMoniker": "limpiar_agenda.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\arreglos_y_listas\\limpiar_agenda\\limpiar_agenda.vb",
+              "RelativeToolTip": "limpiar_agenda.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T16:09:18.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

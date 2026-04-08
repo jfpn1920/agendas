@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\bin\Debug\net10.0\Importar_funciones_especificas.exe
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\bin\Debug\net10.0\Importar_funciones_especificas.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\bin\Debug\net10.0\Importar_funciones_especificas.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\bin\Debug\net10.0\Importar_funciones_especificas.dll
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\bin\Debug\net10.0\Importar_funciones_especificas.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\Importar_funciones_especificas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\Importar_funciones_especificas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\Importar_funciones_especificas.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\Importar_funciones_especificas.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\Importar_funciones_especificas.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\Importar_funciones_especificas.dll
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\refint\Importar_funciones_especificas.dll
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\Importar_funciones_especificas.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\Importar_funciones_especificas.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\programacion_modular\Importar_funciones_especificas\obj\Debug\net10.0\ref\Importar_funciones_especificas.dll

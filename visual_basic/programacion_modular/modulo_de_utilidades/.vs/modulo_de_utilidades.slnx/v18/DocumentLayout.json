@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6EAD-96CF-4F02-B4BC-448C2E2A7364}|modulo_de_utilidades.vbproj|c:\\users\\lenovo\\onedrive\\documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\utilidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E10F6EAD-96CF-4F02-B4BC-448C2E2A7364}|modulo_de_utilidades.vbproj|solutionrelative:utilidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6EAD-96CF-4F02-B4BC-448C2E2A7364}|modulo_de_utilidades.vbproj|c:\\users\\lenovo\\onedrive\\documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\modulo_de_utilidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E10F6EAD-96CF-4F02-B4BC-448C2E2A7364}|modulo_de_utilidades.vbproj|solutionrelative:modulo_de_utilidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6EAD-96CF-4F02-B4BC-448C2E2A7364}|modulo_de_utilidades.vbproj|c:\\users\\lenovo\\onedrive\\documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\agenda_funciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E10F6EAD-96CF-4F02-B4BC-448C2E2A7364}|modulo_de_utilidades.vbproj|solutionrelative:agenda_funciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "utilidades.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\utilidades.vb",
+              "RelativeDocumentMoniker": "utilidades.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\utilidades.vb",
+              "RelativeToolTip": "utilidades.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T18:17:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "agenda_funciones.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\agenda_funciones.vb",
+              "RelativeDocumentMoniker": "agenda_funciones.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\agenda_funciones.vb",
+              "RelativeToolTip": "agenda_funciones.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T18:16:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modulo_de_utilidades.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\modulo_de_utilidades.vb",
+              "RelativeDocumentMoniker": "modulo_de_utilidades.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\programacion_modular\\modulo_de_utilidades\\modulo_de_utilidades.vb",
+              "RelativeToolTip": "modulo_de_utilidades.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T18:16:11.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

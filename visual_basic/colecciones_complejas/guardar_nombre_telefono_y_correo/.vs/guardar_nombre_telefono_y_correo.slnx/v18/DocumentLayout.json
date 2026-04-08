@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\colecciones_complejas\\guardar_nombre_telefono_y_correo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9955914-D1D4-44CA-ADCA-5B4C44B2C80B}|guardar_nombre_telefono_y_correo.vbproj|c:\\users\\lenovo\\onedrive\\documentos\\agendas\\visual_basic\\colecciones_complejas\\guardar_nombre_telefono_y_correo\\guardar_nombre_telefono_y_correo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B9955914-D1D4-44CA-ADCA-5B4C44B2C80B}|guardar_nombre_telefono_y_correo.vbproj|solutionrelative:guardar_nombre_telefono_y_correo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "guardar_nombre_telefono_y_correo.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\colecciones_complejas\\guardar_nombre_telefono_y_correo\\guardar_nombre_telefono_y_correo.vb",
+              "RelativeDocumentMoniker": "guardar_nombre_telefono_y_correo.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\agendas\\visual_basic\\colecciones_complejas\\guardar_nombre_telefono_y_correo\\guardar_nombre_telefono_y_correo.vb",
+              "RelativeToolTip": "guardar_nombre_telefono_y_correo.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-06T03:11:51.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
