@@ -1,0 +1,17 @@
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\bin\Debug\net10.0-windows\prueba.exe
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\bin\Debug\net10.0-windows\prueba.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\bin\Debug\net10.0-windows\prueba.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\bin\Debug\net10.0-windows\prueba.dll
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\bin\Debug\net10.0-windows\prueba.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.Form1.resources
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.vbproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.dll
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\refint\prueba.dll
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\prueba.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\agendas\visual_basic\desarrollo_de_aplicaciones\prueba\obj\Debug\net10.0-windows\ref\prueba.dll
