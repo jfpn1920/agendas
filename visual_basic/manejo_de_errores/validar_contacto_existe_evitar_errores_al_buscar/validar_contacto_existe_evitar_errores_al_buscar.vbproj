@@ -1,9 +1,0 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>validar_contacto_existe_evitar_errores_al_buscar</RootNamespace>
-    <TargetFramework>net10.0</TargetFramework>
-  </PropertyGroup>
-
-</Project>

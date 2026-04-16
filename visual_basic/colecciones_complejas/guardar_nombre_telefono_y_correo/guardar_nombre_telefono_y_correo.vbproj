@@ -1,9 +1,0 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>guardar_nombre_telefono_y_correo</RootNamespace>
-    <TargetFramework>net10.0</TargetFramework>
-  </PropertyGroup>
-
-</Project>
